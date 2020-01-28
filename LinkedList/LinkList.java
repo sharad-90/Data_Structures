@@ -1,4 +1,4 @@
-package learnbay.com.sharad;
+package com.sharad;
 
 
 public class LinkList {
